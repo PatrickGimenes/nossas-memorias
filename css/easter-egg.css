@@ -1,0 +1,46 @@
+#egg-counter {
+  text-align: center;
+
+  color: #888;
+
+  font-size: 0.9rem;
+
+  padding: 40px 0;
+}
+
+.achievement {
+  position: fixed;
+
+  bottom: 20px;
+  left: 50%;
+
+  transform: translateX(-50%);
+
+  background: #171717;
+
+  border: 1px solid #5b0e28;
+
+  padding: 15px 20px;
+
+  border-radius: 12px;
+
+  z-index: 99999;
+
+  opacity: 0;
+
+  transition: 0.3s;
+}
+
+.achievement.show {
+  opacity: 1; 
+}
+
+#ambrosio-secret {
+  width: 30px;
+  height: 30px;
+  opacity: 0.85;
+  cursor: pointer;
+  text-align: center;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
