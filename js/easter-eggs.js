@@ -26,7 +26,7 @@ const EasterEggs = {
               </strong>
             `,
           );
-        }, 3000);
+        }, 5000);
       }
     }
   },
