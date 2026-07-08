@@ -38,8 +38,14 @@ const memories = [
   },
   {
     title: "Sexto encontro - Serra Negra",
-    date: "2026-07-18",  
+    date: "2026-08-01",  
     image: "assets/photos/date07.jpg",  
     description: "Parece a Itália, então deve ter pizza italiana.",
+  },
+  {
+    title: "Sétimo encontro - Soberano Steak House",
+    date: "2026-08-08",  
+    image: "assets/photos/date08.jfif",  
+    description: "Vai um churras?",
   },
 ];
