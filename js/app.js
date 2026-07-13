@@ -1,8 +1,8 @@
 new Typed("#typing", {
   strings: ["A linha", "do tempo", "de um casal!", "Bárbara", "Patrick"],
 
-  typeSpeed: 60,
-  backSpeed: 40,
+  typeSpeed: 40,
+  backSpeed: 30,
   backDelay: 1500,
 
   loop: true,

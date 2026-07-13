@@ -32,13 +32,13 @@ const memories = [
   // },
   {
     title: "Quarto encontro - Holambra",
-    date: "2026-07-25",  
+    date: "2026-07-18",  
     image: "assets/photos/date05.jpg",  
     description: "Uma flor para uma flor!",
   },
   {
     title: "Quinto encontro - Serra Negra",
-    date: "2026-08-01",  
+    date: "2026-07-25",  
     image: "assets/photos/date06.jpg",  
     description: "Parece a Itália, então deve ter pizza italiana.",
   },
