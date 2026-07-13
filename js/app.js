@@ -1,5 +1,5 @@
 new Typed("#typing", {
-  strings: ["Nossa Linha do Tempo", "Bárbara", "Patrick", "Casal? kkkkk"],
+  strings: ["A linha", "do tempo", "de um casal!", "Bárbara", "Patrick"],
 
   typeSpeed: 60,
   backSpeed: 40,
@@ -58,3 +58,4 @@ document.getElementById("egg-counter").addEventListener("click", () => {
 
   location.reload();
 });
+
